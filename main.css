@@ -117,7 +117,8 @@ body{
 .header-bottom-list{
    display: flex;
    justify-content: space-between;
-   margin-bottom: 40px;
+   padding-bottom: 40px;
+   border-bottom: 1px solid black;
 }
 
 .header-bottom-list-item{
@@ -219,7 +220,7 @@ body{
 
 .site-article{
    width: 1050px;
-   background-image: url("./images/Group\ 35\ 1.png");
+   background-image: url("./images/Group\    35\ 1.png");
    margin: 0 auto;
 }
 
